@@ -1,5 +1,5 @@
 ---
-title "마크다운 문법 정리"
+title: "마크다운 문법 정리"
 excerpt: "md 파일을 Github 원격 저장소에 업로드 하기 위해 마크다운 문법을 공부해보자."
 
 categories:
